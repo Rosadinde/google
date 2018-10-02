@@ -1,0 +1,16 @@
+.toolbar {
+    display: flex;
+    justify-content: flex-end
+}
+
+.app {
+    width: 30px;
+    height: 30px;
+}
+
+
+.logo {
+    padding-top: 112px;
+    height: 92px;
+    width: 272px;
+}
